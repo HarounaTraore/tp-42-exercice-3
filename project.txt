@@ -1,4 +1,4 @@
- 
+
 Etape 2 du projet 
  
 Etape 4 du projet 
@@ -6,3 +6,9 @@ Etape 5 du projet
 Etape de la modification
 
 Etape 7 du projet 
+
+Les diffenrents etapes du projet
+Etape1: Etude du projet
+Etape2: Planification
+Etape3: Preparation du projet
+
